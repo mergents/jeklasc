@@ -8,6 +8,7 @@ This addition will re-trigger the auto-republication workflow. You've successful
 == What do I do now?
 
 Here is a first task for Norah: xref:spaces/ontographs/startHere.adoc[Start Here]
+
 Here is a xref:spaces/clone-quickstart.adoc[quick step-by-step guide] to creating your own version of this site.
 
 And xref:spaces/markdown.adoc[here is a pure markdown file] coverted to asciidoc with kramdown.
