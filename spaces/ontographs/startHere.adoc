@@ -1,1 +1,7 @@
+---
+layout: start-doc-site
+title: Create a simple documentation workflow and publication process
+custom_css: create-site
+---
+
 So Norah,Have a look at this article on Medium: https://medium.com/@lopezyse/your-guide-to-knowledge-graphs-509c847f3d69
